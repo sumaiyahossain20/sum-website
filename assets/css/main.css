@@ -152,8 +152,8 @@ input, select, textarea {
 		}
 
 		body {
-			background: linear-gradient(to bottom, #3774ee, #274e6c);
-			color: #ffffff;
+			background: linear-gradient(to bottom, #4061C6, #644843);
+			color: #000000;
 		}
 
 	body, input, select, textarea {
@@ -2331,7 +2331,7 @@ input, select, textarea {
 
 		.image.left, .image.right {
 			width: 40%;
-			max-width: 10rem;
+			max-width: 4rem;
 		}
 
 			.image.left img, .image.right img {
